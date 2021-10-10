@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Please don't Hurt Animals !!
+### Be Kind to Animals,Please don't Hurt them !!
 <ul>
  
   <li>🔭 I’m currently working on : well it's not dynamic and I am lazy</li>
