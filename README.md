@@ -3,9 +3,9 @@
 <ul>
  
   <li>🔭 I’m currently working on : well it's not dynamic and I am lazy</li>
-  <li>🌱 I’m currently learning : how things work in production</li>
-  <li>👯 I’m looking to collaborate on : react.js projects</li>
-  <li>🤔 I’m looking for : Internship </li>
+  <li>🌱 I’m currently learning : blockchain development</li>
+  <li>👯 I’m looking to collaborate on : Any Idea that you think can make money</li>
+  <li>🤔 I’m looking for : More money </li>
   <li>💬 Ask me about : Anime</li>
   <li>📫 How to reach me : shishir456tiwari@gmail.com </li>
   <li>⚡ Fun fact: AOT is not overrated</li>
