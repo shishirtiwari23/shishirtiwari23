@@ -13,7 +13,7 @@
 <div>
   <h2>I Use</h2>
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
+    <img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1" alt="react" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
     <img src="https://keyholesoftware.com/wp-content/uploads/Edge.js-1.jpg" alt="javascript" width="80" height="40" style="margin-left: 10px;" />
