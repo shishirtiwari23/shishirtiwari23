@@ -1,5 +1,4 @@
 ## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parva-jain&label=Views&color=blue&style=plastic" alt="parva-jain" /> </p>
 ### Be Kind to Animals, Please don't Hurt them !!
 <ul>
  
