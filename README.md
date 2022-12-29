@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### Be Kind to Animals, Please don't Hurt them !!!!
+### Go Vegan 💚, Save Planet.
 <ul>
  
   <li>🔭 I’m currently working on : well it's not dynamic and I am lazy</li>
