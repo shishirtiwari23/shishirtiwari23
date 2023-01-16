@@ -25,6 +25,6 @@
   <h2 >How I Fix Bugs? You Ask !!!</h2>
 <img src="https://i.imgur.com/FX27d06.gif"/>
   <br/>
-  <br/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=shishirtiwari23&show_icons=true&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&icon_color=238636"/>
+ <br/>
+ <!--   <img  src="https://github-readme-stats.vercel.app/api?username=shishirtiwari23&show_icons=true&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&icon_color=238636"/> -->
 </div>
