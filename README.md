@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Be Kind to Animals, Please don't Hurt them !!!
+### Be Kind to Animals, Please don't Hurt them !
 ### Go Vegan 💚, Save Planet.
 <ul>
  
