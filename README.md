@@ -3,13 +3,7 @@
 ### Go Vegan 💚, Save Planet.
 <ul>
  
-  <li>🔭 I’m currently working on : well it's not dynamic and I am lazy</li>
-  <li>🌱 I’m currently learning : blockchain development</li>
-  <li>👯 I’m looking to collaborate on : Any Idea that you think is revolutionary</li>
-  <li>🤔 I’m looking for : More money </li>
-  <li>💬 Ask me about : Anime</li>
-  <li>📫 How to reach me : shishir456tiwari@gmail.com </li>
-  <li>⚡ Fun fact: AOT is not overrated</li>
+
 </ul>
 <div>
   <h2>I Use</h2>
