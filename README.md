@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/color/452/firebase.png" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
   </div>
   <br/>
-  <h2 >How I Fix Bugs? You Ask !!!</h2>
+  <h2 >How I Fix Bugs?</h2>
 <img src="https://i.imgur.com/FX27d06.gif"/>
   <br/>
  <br/>
