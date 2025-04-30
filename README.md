@@ -1,12 +1,12 @@
 ## Hi there 👋
-### Be Kind to Animals
-### Go Vegan 💚, Save Planet.
+#### Be Kind to Animals
+#### Go Vegan 💚, Save Planet.
 <ul>
  
 
 </ul>
 <div>
-  <h2>I Use</h2>
+  <h2>I use</h2>
   <div>
     <img src="https://img.icons8.com/color/344/react-native.png" alt="react" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
