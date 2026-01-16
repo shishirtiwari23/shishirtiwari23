@@ -28,7 +28,7 @@
 I am a **Senior Full Stack Developer** with 3.5+ years of experience bridging the gap between "Agency Speed" and "Engineering Rigor."
 - 🔭 **Currently:** Auditing frontend architectures to kill wasted re-renders and optimizing Time-to-Interactive (TTI).
 - 📈 **Trading & AI:** I engineer custom Python pipelines to fetch raw Nifty 50 futures data and feed it into Gemini AI models to predict volume anomalies in real-time.
-- 🌱 **Community:** When not coding, I am an **Animal Rights Activist**. I co-organized India's biggest Animal Rights March (900+ attendees), proving that leadership is about empathy and logistics, not just code.
+- 🌱 **Community:** When not coding, I am an **Animal Rights Activist**. I co-organized India's biggest Animal Rights March (250+ attendees), proving that leadership is about empathy and logistics, not just code.
 
 ---
 
